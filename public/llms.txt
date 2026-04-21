@@ -1,0 +1,75 @@
+# Business — Generative Engine Optimization Map
+
+---
+
+## Pages
+
+### בית
+https://example.com
+סרטי-קופיקו היא החנות המובילה לוייפ וסיגריות בישראל. מבחר עשיר של מכשירי וייפ, סיגריות אלקטרוניות ומוצרי עישון במחירים שלא תמצא בשום מקום אחר. בקר אצלנו היום!
+
+### אודות
+https://example.com/about
+היכירו את סרטי-קופיקו – החנות שהפכה לכתובת המובילה לסיגריות אלקטרוניות ומוצרי וייפ בישראל. למדו על הערכים, המומחיות והמחויבות שלנו לכל לקוח. הצטרפו למשפחה שלנו!
+
+### צור קשר
+https://example.com/contact
+יש לכם שאלות על מכשירי וייפ, סיגריות אלקטרוניות או מוצרי עישון? צוות סרטי-קופיקו זמין עבורכם ויסייע לכם למצוא בדיוק מה שאתם מחפשים. צרו קשר עכשיו ונשמח לעזור!
+
+### Products
+https://example.com/products
+המוצרים שלנו - סרטי-קופיקו
+
+### Cart
+https://example.com/cart
+עגלת הקניות שלך
+
+### Checkout
+https://example.com/checkout
+תשלום
+
+### Login
+https://example.com/login
+התחברות לקוחות
+
+### Account
+https://example.com/account
+החשבון שלי
+
+### Order Success
+https://example.com/order-success
+תודה על ההזמנה
+
+### Product Detail
+https://example.com/product/:slug
+פרטי המוצר - סרטי-קופיקו
+
+### Category
+https://example.com/category/:slug
+מוצרים - סרטי-קופיקו
+
+## Legal & Policy
+
+### Privacy Policy
+https://example.com/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://example.com/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://example.com/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+# Business Context (for LLM understanding)
+
+## About Business
+---
+
+# Additional Resources
+
+- **Sitemap**: https://example.com/sitemap.xml
+- **Robots.txt**: https://example.com/robots.txt
